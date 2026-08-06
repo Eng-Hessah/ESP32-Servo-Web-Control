@@ -12,3 +12,12 @@ This project uses an ESP32 as a Wi-Fi Access Point to control a servo motor thro
 - 2 × 220 Ω Resistors
 - Breadboard
 - Jumper Wires
+
+## Circuit Connections
+
+- Servo motor signal → GPIO 23
+- Servo motor VCC → 5V
+- Servo motor GND → GND
+- Green LED → GPIO 18 (through a 220 Ω resistor)
+- Red LED → GPIO 19 (through a 220 Ω resistor)
+- All components share a common GND.
