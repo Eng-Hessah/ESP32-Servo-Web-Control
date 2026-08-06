@@ -21,3 +21,13 @@ This project uses an ESP32 as a Wi-Fi Access Point to control a servo motor thro
 - Green LED → GPIO 18 (through a 220 Ω resistor)
 - Red LED → GPIO 19 (through a 220 Ω resistor)
 - All components share a common GND.
+
+## Wokwi 
+
+### Simulation
+
+https://github.com/user-attachments/assets/65337fef-6156-4369-ba42-7d5558657903
+
+### Project Link
+
+https://wokwi.com/projects/471562414456461313
