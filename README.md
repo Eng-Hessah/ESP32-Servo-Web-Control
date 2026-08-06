@@ -26,7 +26,7 @@ This project uses an ESP32 as a Wi-Fi Access Point to control a servo motor thro
 
 ### Simulation
 
-https://github.com/user-attachments/assets/65337fef-6156-4369-ba42-7d5558657903
+
 
 ### Project Link
 
