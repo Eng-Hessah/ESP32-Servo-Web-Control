@@ -1,7 +1,15 @@
 # ESP32-Servo-Web-Control
-## Project Overview
+## Overview
 
 This project uses an ESP32 as a Wi-Fi Access Point to control a servo motor through a web interface. Users can open or close the servo using two buttons, while green and red LEDs indicate the current status. The project was implemented and tested in both Wokwi simulation and real hardware.
+
+## Project Features
+
+- Controls a servo motor through a web interface.
+- Uses the ESP32 as a Wi-Fi Access Point.
+- Includes Open and Close control buttons.
+- Uses green and red LEDs to indicate the servo status.
+- Implemented and tested in both Wokwi simulation and real hardware
 
 ## Components Used
 
