@@ -48,8 +48,9 @@ https://wokwi.com/projects/471562414456461313
 
 ### Demo
 
-https://github.com/user-attachments/assets/f9b5a5bb-203a-4377-bec2-aa3386096c07
 
+
+https://github.com/user-attachments/assets/011b9086-65d6-4560-8255-246b8190c6c4
 Note: The green LED uses a *10 kΩ resistor* in the hardware 
 
 ### Source Code 
