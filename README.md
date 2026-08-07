@@ -39,3 +39,17 @@ https://github.com/user-attachments/assets/d3df25f8-0999-4525-97bd-24922f527719
 ### Project Link
 
 https://wokwi.com/projects/471562414456461313
+
+## Hardware 
+
+### Circuit Diagram
+
+<img width="1353" height="1162" alt="WhatsApp Image 2026-08-07 at 2 42 43 AM" src="https://github.com/user-attachments/assets/1b28b22c-c9ec-4493-b69a-90e792e8a0e8" /> 
+
+### Demo
+
+https://github.com/user-attachments/assets/d703c043-767f-4d5b-bdd4-3c69b7aab297
+Note: The green LED uses a *10 kΩ resistor* in the hardware 
+
+## Project Auther
+Hessah Safar Alharthi
