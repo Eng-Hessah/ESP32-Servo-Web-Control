@@ -52,5 +52,8 @@ https://github.com/user-attachments/assets/f9b5a5bb-203a-4377-bec2-aa3386096c07
 
 Note: The green LED uses a *10 kΩ resistor* in the hardware 
 
+### Source Code 
+The ESP32 source code is available in the Servo_Web.ino file.
+
 ## Project Auther
 Hessah Safar Alharthi
